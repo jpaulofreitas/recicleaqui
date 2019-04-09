@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.RecPlasticoView" Title="Reciclagem de Plástico">
+    <ContentPage.Content>
+        <ScrollView BackgroundColor="LightSeaGreen">
+            <StackLayout Padding="20">
+                <Label Text="A RECICLAGEM DE PLÁSTICO"
+                       TextColor="White"
+                       FontSize="24"
+                       FontAttributes="Bold"
+                        HorizontalOptions="Center"/>
+
+                <Image Source="plastico.jpg" 
+                       VerticalOptions="CenterAndExpand" />
+
+                <Label Text="O lixo brasileiro – resíduos descartados em aterros sanitários, ou apesar da lei proibitiva em vigor, lixões – contém uma alta porcentagem de plásticos, variando conforme o local e renda de seus habitantes, ocupando um considerável espaço.&#10;O ideal: serem recuperados e reciclados.&#10;O incentivo: a reciclagem do plástico exige uma fração da energia utilizada no processo primário.&#10;O impecílio: a grande variedade de tipos.&#10;
+                       &#10;Alguns plásticos simples de reciclar: potes de todos os tipos, sacos de supermercados, embalagens para alimentos, vasilhas, recipientes e artigos domésticos, tubulações e garrafas PET.&#10;
+                       &#10;Alguns plásticos com reciclagem complexa ou inviável: cabos de panela, botões de rádio, pratos, canetas, bijuterias, espuma, isopor, embalagens a vácuo, fraldas descartáveis.&#10;
+                       &#10;A fabricação de plástico reciclado economiza muita energia em todo o processo, da exploração da matéria-prima primária até a formação do produto final. O plástico reciclado tem infinitas aplicações, tanto nos mercados tradicionais das resinas virgens, quanto em novos mercados.&#10;
+                       &#10;O plástico reciclado pode ser utilizado para fabricação de:&#10;– garrafas e frascos, exceto para contato direto com alimentos e fármacos, que tem uma legislação específica e rígida;&#10;– Fibras têxteis;&#10;– baldes, cabides, pentes e outros artefatos produzidos pelo processo de injeção;&#10;– cerdas, vassouras, escovas e outros produtos que sejam produzidos com fibras;&#10;– sacolas e outros tipos de filmes;&#10;– painéis para a construção civil.&#10;
+                       &#10;O Plástico e a Geração de Energia&#10;
+                       &#10;– A presença dos plásticos é de vital importância, pois aumenta o rendimento da incineração de resíduos municipais.&#10;
+                       &#10;– O calor pode ser recuperado em caldeira, utilizando o vapor para geração de energia elétrica e/ou aquecimento.&#10;
+                       &#10;– Testes em escala real na Europa comprovaram os bons resultados da co-combustão dos resíduos de plásticos com carvão, turfa e madeira, tanto técnica, econômica, como ambientalmente.&#10;
+                       &#10;– A queima de plásticos em processos de reciclagem energética reduz o uso de combustíveis (economia de recursos naturais).&#10;
+                       &#10;– A reciclagem energética é realizada em diversos países da Europa, EUA e Japão e utiliza equipamentos da mais alta tecnologia, cujos controles de emissão são rigidamente seguros, anulando riscos à saúde ou ao meio ambiente.&#10;
+                       &#10;Os plásticos são produzidos através de um processo químico chamado polimerização, que proporciona a união química de monômeros para formar polímeros.&#10;
+                       &#10;Os polímeros podem ser naturais ou sintéticos. Algodão, madeira, cabelos, chifre de boi, látex, são exemplos de polímeros naturais, comuns em plantas e animais.&#10;
+                       &#10;Os sintéticos, tais como os plásticos, são obtidos pelo homem através de reações químicas. O tamanho e estrutura da molécula do polímero determinam as propriedades do material plástico.&#10;"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Classificação dos descartes plásticos"
+                       HorizontalTextAlignment="Center"
+                       FontSize="20"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="– Pós-industriais: Os quais provêm principalmente de refugos de processos de produção e transformação, aparas, rebarbas, etc.&#10;
+                       &#10;– Pós-consumo: São os descartados pelos consumidores, sendo a maioria provenientes de embalagens."
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Image Source="plastico_classificacao.jpg"
+                       VerticalOptions="CenterAndExpand"/>
+
+                <Label Text="São 7 tipos diferentes de plásticos, sendo que o sétimo tipo são 'outros plásticos' que se classificados, gerariam inúmeros outros tipos.&#10;
+                       &#10;Pela reciclagem mecânica, esses plásticos são incompatíveis entre si, ou seja, como são obtidos de maneiras diferentes, como dito no início da matéria, sua recuperação também precisa ser seletiva.&#10;
+                       &#10;Se mal separamos em casa os plásticos de outros resíduos, imagine a separação completa e necessária para que ocorra a reciclagem!&#10;
+                       &#10;É por isso que apesar de o plástico ser 100% reciclável, na prática tem um índice de reciclagem bem mais baixo.&#10;
+                       &#10;Para aumentar ainda mais a complexidade, novos plásticos sustentáveis começam a entrar com força no mercado, os bioplásticos.&#10;
+                       &#10;A revolução industrial cometeu um grave erro ao não considerar (de fato) o retorno dos materiais para a cadeia produtiva. Por outro lado, esta revolução é responsável pelo estilo de vida confortável que vivemos, permitindo inclusive, ler essa matéria. Portanto, em vez de reclamar ou lamentar sobre lixo ou aquecimento global, é hora de consumir com consciência, evitando embalagens complexas ou difíceis de reciclar,  e destinar corretamente os recicláveis para que sejam efetivamente reciclados.&#10;
+                       &#10;&#10;Fonte: Setor Reciclagem&#10;www.setorreciclagem.com.br&#10;"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

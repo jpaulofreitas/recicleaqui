@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.RecVidroView" Title="Reciclagem de Vidro">
+    <ContentPage.Content>
+        <ScrollView BackgroundColor="LightSeaGreen">
+            <StackLayout HorizontalOptions="Center" Padding="20">
+
+                <Label Text="Reciclagem de Vidro"
+                       TextColor="White"
+                       FontSize="24"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Image Source="vidro.jpg"
+                       VerticalOptions="Center"/>
+
+                <Label Text="O vidro é ideal para a reciclagem e pode, dependendo das circunstâncias, ser infinitamente reciclado, além de benefícios na redução do consumo de energia, reduz o volume de lixo enviado aos aterros sanitários. É basicamente produzido através da fusão de areia, calcário, barrilha,  alumina, corantes e descorantes. Para fabricação de 1.000 kg de vidro são necessários 1.300 kg de areia, matéria prima que apesar de abundante na natureza sempre deixa algum tipo de impacto ambiental na sua extração. Apesar de ser 100% reciclável, seu pleno aproveitamento passa por um gargalo e tropeça na chamada Logística Reversa, ou seja, na logística que traz de volta ao ciclo produtivo os resíduos recicláveis. No caso do vidro, esta logística é um pouco mais complexa do que a de outros materiais como PET, alumínio e sucata que são mais fáceis de coletar, prensar e comercializar.&#10;
+                       &#10;Sobre os índices de reciclagem, o vidro representa hoje entre 30% e 40%, valores inferiores aos de outras embalagens como PET (58%) e a campeã lata de alumínio (98%) – Segundo reportagem da Folha de S.Paulo de 23\06\2016.&#10;
+                       &#10;*Para cada tonelada de caco temos: redução de 480 kWh – redução de 0,53 ton CO2 -, redução de 1,2 ton de matéria-prima. (segundo ABIVIDRO).&#10;
+                       &#10;Conheça o processo de reciclagem de garrafas de vidro em 6 passos simplificados e objetivos. Descubra os novos produtos em que o vidro é transformado.&#10;
+                       &#10;1 – O vidro é coletado e separado por cor verde, ambar (marrom) e transparente, de modo a garantir a qualidade dos materiais que serão produzidos.&#10;
+                       &#10;2 – O material selecionado é submetido a um processo de limpeza que retira substâncias alheias ao processo, como rótulos e tampas metálicas. Para isso são usados tanto tanques com água como eletroímãs.&#10;
+                       &#10;3 – O vidro limpo vai para uma esteira ou mesa para a retirada de impurezas, como pedras, vidros, terra e plásticos.&#10;
+                       &#10;4 – As embalagens são destinadas a um triturador, que transforma o vidro em cacos homogêneos.&#10;
+                       &#10;5 – Uma nova triagem retira qualquer objeto, que não seja vidro, que tenha permanecido.&#10;
+                       &#10;6 – Então o material é encaminhado à indústria vidraceira, que o submeterá a temperaturas entre 1.000 e 1.200 graus centígrados, transformando os cacos em novos artefatos de vidro.&#10;
+                       &#10;Apesar de haver um grande espaço para o crescimento da reciclagem do vidro no Brasil, são poucos os programas voltados a este material tão presente no dia-a-dia.&#10;
+                       &#10;Considerando o lado positivo, há um grande espaço para o crescimento da reciclagem do vidro no Brasil quando comparado a Europa que atinge níveis de 74% ao ano. Porém, são poucos os programas voltados a este material tão presente no dia-a-dia. Neste âmbito podemos destacar como um exemplo o Programa 'Glass is Good' (Vidro é Bom), focado em embalagens pós consumo, de iniciativa e apoio de grandes empresas do setor de bebidas , que atua na educação ambiental, logística reversa, capacitação de cooperativas de reciclagem e já reciclou mais de 10.000 toneladas de cacos (mais de 20 milhões de garrafas) nos últimos 5 anos.&#10;
+                       &#10;Enquanto não houver um esforço maior para a separação adequada, o equilíbrio no custeio logístico, sem falar na bitributação dos recicláveis em um país continental como o Brasil, o crescimento da reciclagem de vidro continuará comprometido.&#10;
+                       &#10;&#10;Fonte: Setor Reciclagem&#10;www.setorreciclagem.com.br&#10;"
+                       TextColor="White"
+                       FontSize="16"
+                       HorizontalTextAlignment="Center"/>
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

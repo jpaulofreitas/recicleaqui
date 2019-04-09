@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.RegistroView" Title="Registro" BackgroundColor="LightSeaGreen" >
+    <Grid>
+
+        <Image Source="imagemfundo.jpg" Aspect="AspectFill"/>
+        <BoxView BackgroundColor="Black" Opacity="0.6"/>
+
+        <AbsoluteLayout Padding="20">
+
+
+            <Picker x:Name="pckPessoa"
+                    TextColor="White"
+                    SelectedIndexChanged="pckPessoa_Selected"
+                    AbsoluteLayout.LayoutBounds="10,20,.7,50" 
+                    AbsoluteLayout.LayoutFlags="WidthProportional">
+                <Picker.Items>
+                    <x:String>Pessoa Física</x:String>
+                    <x:String>Pessoa Jurídica</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Label x:Name="lblId" 
+                   Text="0"
+                   TextColor="White"
+                   FontSize="10" 
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="170,20,.4,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Label x:Name="lblNome"
+                   Text="Nome"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   AbsoluteLayout.LayoutBounds="10,70,.2,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Entry x:Name="txtNome"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   AbsoluteLayout.LayoutBounds="70,60,.8,40"
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Label Text="E-mail"
+                   FontSize="Small"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   AbsoluteLayout.LayoutBounds="10,120,.2,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Entry x:Name="txtEmail"
+                   Keyboard="Email" 
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   AbsoluteLayout.LayoutBounds="70,110,.8,40" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Label Text="Senha"
+                   FontSize="Small"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   AbsoluteLayout.LayoutBounds="10,170,.2,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Entry x:Name="txtSenha" 
+                   IsPassword="True"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   AbsoluteLayout.LayoutBounds="70,160,.8,40" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Label x:Name="lblCnpj" 
+                   Text="CNPJ"  
+                   FontSize="Small" 
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="10,220,.2,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Entry x:Name="txtCnpj" 
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="70,210,.8,40" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Label x:Name="lblEnd" 
+                   Text="Endereço" 
+                   FontSize="Small"  
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="10,270,.2,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional" />
+
+            <Entry x:Name="txtEnd" 
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="70,260,.8,40" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional" />
+
+            <Label x:Name="lblBairro" 
+                   Text="Bairro" 
+                   FontSize="Small"  
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="10,320,.2,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Entry x:Name="txtBairro"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="70,310,.8,40" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Label x:Name="lblCidade"
+                   Text="Cidade"
+                   FontSize="Small"
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="10,370,.2,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Entry x:Name="txtCidade" 
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="70,360,.8,40" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Label x:Name="lblCel" 
+                   Text="Celular"  
+                   FontSize="Small" 
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="10,420,.2,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Entry x:Name="txtCel" 
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="70,410,.8,40" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Label x:Name="lblTel" 
+                   Text="Telefone" 
+                   FontSize="Small" 
+                   FontAttributes="Bold" 
+                   TextColor="White"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="10,470,.2,50" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Entry x:Name="txtTel" 
+                   TextColor="White" 
+                   FontAttributes="Bold"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds="70,460,.8,40" 
+                   AbsoluteLayout.LayoutFlags="WidthProportional"/>
+
+            <Button Text="Salvar"
+                    x:Name="btnSalvar"
+                    Clicked="btnSalvar_Clicked"
+                    BackgroundColor="White" 
+                    TextColor="Black" 
+                    FontAttributes="Bold"
+                    VerticalOptions="Center"
+                    AbsoluteLayout.LayoutBounds="100,520,100,50"
+                    AbsoluteLayout.LayoutFlags="None"/>
+        </AbsoluteLayout>
+    </Grid>
+</ContentPage>

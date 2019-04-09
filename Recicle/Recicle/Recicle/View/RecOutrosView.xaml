@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.RecOutrosView" Title="Outros Materiais">
+    <ContentPage.Content>
+        <ScrollView BackgroundColor="LightSeaGreen">
+            <StackLayout HorizontalOptions="Center" Padding="20">
+
+                <Label Text="DESCARTE CONCIENTE DE MATERIAIS"
+                       TextColor="White"
+                       FontSize="24"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Label Text="Reciclagem de Pneus"
+                       TextColor="White"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Image Source="icon_pneu.jpg"
+                       VerticalOptions="Center"/>
+
+                <Label Text="Matéria prima de difícil decomposição, os pneus são cada vez mais cobiçados para a reciclagem. Saiba mais sobre como ocorre a reciclagem desse material, da borracha ao aço.&#10;
+                       &#10;Como é o processo de reciclagem:&#10;O processo de recuperação e regeneração dos pneus exige a separação da borracha vulcanizada de outros componentes (como metais e tecidos, por exemplo). Os pneus são cortados em lascas e purificados por um sistema de peneiras. As lascas são moídas e depois submetidas à digestão em vapor d'água e produtos químicos, como álcalis e óleos minerais, para desvulcanizá-las.&#10;
+                       &#10;O produto obtido pode ser então refinado em moinhos até a obtenção de uma manta uniforme ou extrudado para a obtenção de grânulos de borracha. Este material tem várias utilidades: cobrir áreas de lazer e quadras esportivas, fabricar tapetes para automóveis; passadeiras; saltos e solados de sapatos; colas e adesivos; câmaras de ar; rodos domésticos; tiras para indústrias de estofados; buchas para eixos de caminhões e ônibus, entre outros produtos. "
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Reciclagem de Isopor"
+                       TextColor="White"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Image Source="isopor.jpg"
+                       VerticalOptions="Center"/>
+
+                <Label Text="A maioria dos brasileiros não sabe onde ou como descartar o isopor ou poliestireno, um plástico que pode ser 100% reaproveitado a partir da reciclagem.&#10;
+                       &#10;O poliestireno, mais conhecido como isopor, é totalmente reciclável, mas apenas 7% dos brasileiros sabem disso, segundo pesquisa realiza da pela empresa de embalagens Meiwa, de São Paulo. Em Curitiba, já é possível reciclar o isopor – uma máquina trazida por meio de uma parceria entre a Meiwa, a Santa Luzia Molduras (empresa de Santa Catarina responsável pela máquina), o Sindicato dos Estabelecimentos Parti culares de Ensino do Paraná (Sine pe-PR) e o Instituto Pró-Cidadania de Curitiba (IPCC) funciona há pouco mais de cinco meses na usina de reciclagem de Campo Magro, na região metropolitana.&#10;
+                       &#10;Isso significa que, ao contrário do que muitos pensam, o isopor pode e deve ser descartado com outros resíduos sólidos como papéis, vidros, metais e plásticos. O isopor na verdade é um plástico, e por isso é 100% reaproveitado, explica o gerente de desenvolvimento e mercado da Meiwa, Ivam Michaltchuk.&#10;
+                       &#10;A máquina recicla cerca de 300 toneladas por mês, quantidade que ajuda a salvar cerca de 5 mil árvores. A matéria-prima substitui a madeira ao ser usada para fazer molduras para quadros, sancas, rodapés, réguas e brinquedos, diz Michaltchuk. O material reciclado também é usado como insumo para concreto leve e solado plástico para calçados. Só não pode ser reaproveitado para embalar alimentos.&#10;
+                       &#10;Conscientização:&#10;Segundo o gerente da Meiwa, a destinação correta do poliestireno sempre foi uma preocupação da empresa e, por isso, ela se envolveu com diversos projetos educacionais, entre eles o Planeta Reciclável, desenvolvido pelo Sinepe-PR no ano passado para conscientizar professores e estudantes do estado para questões ligadas ao meio ambiente e à sustentabilidade. 'Queríamos trabalhar a importância da reciclagem nas escolas e este era um bom caminho. Neste ano, algumas escolas da cidade vão elaborar projetos nessa área. Pla nejamos também promover uma feira com produtos pedagógicos feitos de isopor reciclável', conta o presidente do Sinepe-PR, Ademar Batista Pereira. Em Curitiba, cerca de 200 famílias já trabalham com a reciclagem de isopor na usina de Campo Magro. Eles vendem o ma terial por quilo para a Santa Luzia, que faz a reciclagem.&#10;
+                       &#10;Uma segunda máquina de reciclagem de isopor foi instalada no presídio de Piraquara, na região metropolitana. A iniciativa faz parte do Projeto Revima – Revalorizando Vidas e o Meio Ambiente. Por mês, os presos processam cerca de 4,5 toneladas de isopor, que vem da embalagem de suas refeições.&#10;
+                       &#10;Utilização:&#10;De matéria-prima a energia - Segundo informações da entidade socioambiental Plastivida, o isopor é uma marca comercial para dois tipos técnicos de produtos: o poliestireno expandido (EPS), usado para a fabricação de caixas de acondicionamento e embalagens protetoras, e o poliestireno extrusado (XPS), uma espuma mais rígida, usada para fazer bandejas e copos. A proprietária da marca isopor é da empresa Knauf.&#10;
+                       &#10;O material pode ser reciclado de três formas. A reciclagem mecânica transforma o produto em matéria prima para a fabricação de novos produtos. A energética usa o poliestireno para a recuperação de energia, devido ao seu alto poder calorífico. Já a reciclagem química reutiliza o plástico para a fabricação de óleos e gases. O material também tem sido utilizado no isolamento térmico de edifícios. Ao ser queimado em usinas térmicas para a geração de energia, o poliestireno se transforma em gás carbônico e vapor d'água. Por isso, sua fabricação não apresenta nenhum risco à saúde humana nem ao meio ambiente. O isopor não é solúvel em água, não contamina alimentos, não causa danos à camada de ozônio, pois não contém gás clorofluorcarbono, o CFC, e o seu processo de fabricação consome pouca energia.&#10;"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Reciclagem de Lâmpadas Fluorescentes"
+                       TextColor="White"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Image Source="icon_lampada.jpg"
+                       VerticalOptions="Center"/>
+
+                <Label Text=" O termo 'reciclagem de lâmpadas' refere-se à recuperação de alguns de seus materiais e o retorno ao ciclo de vida industrial.&#10;
+                       &#10;Um processo eficiente de reciclagem inclui desde um competente serviço de informação e esclarecimentos junto aos geradores de resíduos, explicitando como estes devem ser transportados para que não ocorra a quebra dos bulbos durante o seu transporte, até a garantia final de que o mercúrio seja removido dos componentes recicláveis e que os vapores de mercúrio serão contidos durante o processo de reciclagem. Analisadores portáteis devem monitorar a concentração de vapor de mercúrio no ambiente para assegurar a operação dentro dos limites de exposição ocupacional (0,05 mg.m~3, de acordo com a Occupational Safety and Health Administration -OSHA).&#10;
+                       &#10;O processo de reciclagem mais usado e em operação em várias partes do mundo envolve basicamente duas fases:&#10;
+                       &#10;a) Fase de esmagamento:&#10;As lâmpadas usadas são introduzidas em processadores especiais para esmagamento, quando, então, os materiais constituintes são separados por peneiramento, separação eletrostática e ciclonagem, em cinco classes distintas:&#10;
+                       &#10;– terminais de alumínio – pinos de latão; – componentes ferro-metálicos; – vidro, – poeira fosforosa rica em Hg; – isolamento baquelítico.&#10;
+                       &#10;No início do processo, as lâmpadas são implodidas e/ou quebradas em pequenos fragmentos, por meio de um processador (britador e/ou moinho). Isto permite separar a poeira de fósforo contendo mercúrio dos outros elementos constituintes. As partículas esmagadas restantes são, posteriormente, conduzidas a um ciclone por um sistema de exaustão, onde as partículas maiores, tais como vidro quebrado, terminais de alumínio e pinos de latão são separadas e ejetadas do ciclone e separadas por diferença gravimétrica e por processos eletrostáticos.&#10;
+                       &#10;A poeira fosforosa e demais particulados são coletados em um filtro no interior do ciclone. Posteriormente, por um mecanismo de pulso reverso, a poeira é retirada desse filtro e transferida para uma unidade de destilação para recuperação do mercúrio.&#10;
+                       &#10;O vidro, em pedaços de 15 mm, é limpo, testado e enviado para reciclagem. A concentração média de mercúrio no vidro não deve exceder a 1,3mg/kg. O vidro nessa circunstância pode ser reciclado, por exemplo, para a fabricação de produtos para aplicação não alimentar.&#10;
+                       &#10;O alumínio e pinos de latão, depois de limpos, podem ser enviados para reciclagem em uma fundição. A concentração média de mercúrio nesses materiais não deve exceder o limite de 20 mg/kg. A poeira de fósforo é normalmente enviada a uma unidade de destilação, onde o mercúrio é extraído. O mercúrio é, então, recuperado e pode ser reutilizado. A poeira fosforosa resultante pode ser reciclada e reutilizada, por exemplo, na indústria de tintas.&#10;
+                       &#10;O único componente da lâmpada que não é reciclado é o isolamento baquelítico existente nas extremidades da lâmpada.&#10;
+                       &#10;No que se refere à tecnologia para a reciclagem de lâmpadas, a de maior avanço tecnológico é apresentada pela empresa Mercury Recovery Technology – MRT, estabelecida em Karlskrona Suécia. O processador da MRT trabalha a seco, em sistema fechado, incorporado em um 'container' de 20 pés de comprimento (6,10m). Todo o sistema opera sob pressão negativa (vácuo) para evitar a fuga de mercúrio para o ambiente externo (emissões fugitivas).&#10;
+                       &#10;b) Fase de destilação de mercúrio&#10;A fase subsequente nesse processo de reciclagem é a recuperação do mercúrio contido na poeira de fósforo. A recuperação é obtida pelo processo de reportagem, onde o material é aquecido até a vaporização do mercúrio (temperaturas acima do ponto de ebulição do mercúrio, 357° C). O material vaporizado a partir desse processo é condensado e coletado em recipientes especiais ou decantadores. O mercúrio assim obtido pode passar por nova destilação para se removerem impurezas. Emissões fugitivas durante esse processo podem ser evitadas usando-se um sistema de operação sob pressão negativa.&#10;"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Reciclagem de Lixo Eletrônico"
+                       TextColor="White"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Image Source="icon_eletronico.jpg"
+                       VerticalOptions="Center"/>
+
+                <Label Text="Pilhas, baterias e computadores em desuso não podem ser descartados sem critério porque são tóxicos e trazem riscos à saúde e ao meio ambiente; a destinação correta do e-lixo está prevista em lei.&#10;
+                       &#10;Mesmo depois de aprovada a lei 13.576/09, que responsabiliza os fabricantes pelo descarte do lixo eletrônico, muita gente ainda não sabe o que fazer com teclados, monitores, baterias e pilhas em desuso.&#10;
+                       &#10;Segundo o documento da ONU intitulado Gestão Sustentável de Resíduos de Equipamentos Elétricos e Eletrônicos na América Latina, em 2014 o Brasil produziu 1,4 milhão de toneladas de lixo eletrônico.&#10;
+                       &#10;Esse volume é resultado das constantes inovações tecnológicas, do apelo do marketing e da obsolescência programada. Todo dia surgem novos equipamentos eletrônicos, seu consumo é estimulado pela publicidade e porque seus equipamentos, que funcionavam perfeitamente meses atrás, começam a dar defeito e a depender de mais desempenho para responder à exigência dos novos aplicativos. &#10;
+                       &#10;Quando é descartado de maneira incorreta, os eletrônicos podem trazer muitos riscos, pois contêm  metais tóxicos, que podem causar doenças. Esses materiais podem também gerar um ciclo de contaminação do solo e do lençol freático, chegando ao consumidor final pela água. Entenda mais sobre os efeitos do lixo eletrônico na saúde.&#10;
+                       &#10;Um computador comum tem cerca de 18% de  chumbo, cádmio, berílio e mercúrio, que são metais tóxicos. O chumbo, por exemplo, é prejudicial ao cérebro e ao sistema nervoso.&#10;
+                       &#10;Descarte  correto:&#10;Os produtos ou peças eletrônicas que não não tem mais utilidade devem ser entregues nas lojas que os vendem para que sejam devolvidos aos fabricantes, que são  obrigados por lei a darem destino correto aos resíduos, ou levados para centros de triagem para serem separados e reaproveitados.&#10;
+                       &#10;A reciclagem de produtos eletrônicos ainda é feito em pequena escala. A maior parte  dos metais é exportada para países que detêm a tecnologia para isso. As peças vão para o exterior onde as substâncias tóxicas são separadas e reaproveitadas em novos produtos, como celulares, baterias etc. Infelizmente, para dar viabilidade econômica ao processo, é comum que os materiais sejam triados por comunidades carentes.&#10;
+                       &#10;A participação da população no caso da disposição ecologicamente correta deste tipo de lixo é essencial, pois além de colaborar com o meio ambiente urbano contribui com as cooperativas de reciclagem. O gerador do lixo é o responsável pelo seu descarte e é importante a conscientização dos cidadãos para que o descarte correto efetivamente ocorra.&#10;"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Reciclagem de Embalagens Longa Vida"
+                       TextColor="White"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Image Source="icon_embalagem.jpg"
+                       VerticalOptions="Center"/>
+
+                <Label Text="Há dois maiores entraves para a reciclagem das embalagens cartonadas longa vida. O primeiro é a conscientização por parte da população de que é necessário fazer uma coleta seletiva de forma correta. Para tal, as embalagens cartonadas depois de usadas devem ser limpas por dentro por meio de lavagem e secagem. Também não devem ser jogadas no lixo no formato original, mas devem ser amassadas, pois esse gesto reduz o volume e auxilia no transporte.&#10;
+                       &#10;O segundo problema que deve ser vencido para ocorrer a reciclagem das embalagens cartonadas é o fato de que elas são compósitos, ou seja, são formadas por vários materiais que estão dispostos em multicamadas bem aderidas umas às outras. Os três componentes principais que compõem essas camadas são: papel (que corresponde a 75% em massa da embalagem), alumínio (20%) e plástico polietileno de baixa densidade (5%).&#10;
+                       &#10;Assim, a primeira parte do processo é a separação eficaz desses materiais, sendo que o material coletado é colocado em um equipamento chamado hidrapulper, que sofre agitação mecânica com água. O resultado é que as fibras de celulose do papel são hidratadas, destacando-se e ficando suspensas, de modo que podem ser retiradas por meio de bombeamento na parte inferior do hidrapulper, onde há uma chapa perfurada para impedir que o polietileno e o alumínio também sejam bombeados juntos. Assim, enquanto o papel é separado, as camadas de polietileno e alumínio permanecem unidas.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>                                              
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

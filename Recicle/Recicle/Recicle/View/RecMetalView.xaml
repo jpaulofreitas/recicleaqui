@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.RecMetalView" Title="Reciclagem de Metal">
+    <ContentPage.Content>
+        <ScrollView BackgroundColor="LightSeaGreen">
+            <StackLayout Padding="20">
+                <Label Text="A RECICLAGEM DO METAL"
+                       TextColor="White"
+                       FontSize="24"
+                       FontAttributes="Bold"
+                        HorizontalOptions="Center"/>
+
+                <Label Text="A metalurgia e a reciclagem se confundem ao longo da História, pois as sucatas são geralmente as matérias-primas mais convenientes na fundição, não havendo também perdas de qualidade no processo.&#10;
+                       &#10;Os metais são muito utilizados em equipamentos, estruturas, embalagens, etc. devido à sua elevada durabilidade, resistência e facilidade de conformação. &#10;
+                       &#10;Separam-se magneticamente as sucatas em ferrosas e não-ferrosas e ainda em:&#10;
+                       &#10;• Sucatas pesadas: geralmente encontradas nos ferros-velhos (vigas, equipamentos, chapas, grelhas etc.)."
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+            
+                <Image Source="ferro_velho.jpg" 
+                       VerticalOptions="CenterAndExpand" 
+                       Margin="0,0,0,24"/>
+
+                <Label Text="• Sucatas de processo: cavacos, limalhas e rebarbas, além de peças defeituosas que voltam ao processo industrial."
+                       TextColor="White"
+                       FontSize="16"
+                       HorizontalTextAlignment="Center"/>
+
+                <Image Source="sucata_metal.jpg" 
+                       VerticalOptions="Center" 
+                       Margin="0,0,0,24"/>
+
+                <Label Text="• Sucatas de obsolescência: materiais descartados pós consumo."
+                       TextColor="White"
+                       FontSize="16"
+                       HorizontalTextAlignment="Center"/>
+
+                <Image Source="sucata_absolente.jpg" 
+                       VerticalOptions="Center"
+                       Margin="0,0,0,24"/>
+
+                <Label Text="O cobre é muito utilizado para ligas: latão e bronze e revestimento de artefatos metálicos. O estanho é utilizado para revestir internamente latas de aço (folhas-de-flandres) no setor de embalagens, principalmente para alimentos, para evitar a corrosão pelo alimento. Crômio é utilizado para revestir latas e vários artefatos metálicos. O zinco e o níquel são utilizados também para revestir artefatos metálicos. Aço é uma liga de ferro com carvão e baixíssimas quantidades de outros metais (molibdênio, crômio, níquel, tungstênio, nióbio, etc). Dependendo deste outro metal, temos os diferentes tipos de aços.&#10;
+                       &#10;Os metais são 100% recicláveis. A reciclagem de uma tonelada de sucata de alumínio economiza 5 toneladas de bauxita, um recurso natural não-renovável.&#10;
+                       &#10;As latas, tanto as de folhas-de-flandres quanto as de alumínio, são as principais sucatas metálicas desprezadas hoje em dia e que podem ser recuperadas em grandes quantidades pela coleta seletiva.&#10;
+                       &#10;Cada tonelada de aço reciclado representa uma economia de 1.140 kg de minério de ferro, 154 kg de carvão e 18 kg de cal. Já na reciclagem do alumínio, a economia de energia é de 95% em relação ao processo primário, sem contar toda a lama vermelha (resíduo da mineração) que é evitada.&#10;
+                       &#10;Geralmente os metais ferrosos são direcionados para as usinas de fundição, onde a sucata é colocada em fornos elétricos ou a oxigênio, aquecidos a 1.550 graus centígrados. Após atingir o ponto de fusão e chegar ao estado líquido, o material é moldado em tarugos e placas metálicas, que sero cortados na forma de chapas de aço. A sucata demora somente um dia para ser reprocessada e transformada novamente em lâminas de aço usadas por vários setores industriais – das montadoras de automóveis às fábricas de latinhas em conserva.&#10;
+                       &#10;O alumínio também é encaminhado para a fundição, obedecendo parâmetros específicos de processamento. O alumínio reciclado está presente na indústria de autopeças, na fabricação de novas embalagens, entre outros.&#10;
+                       &#10;&#10;Pode-se concluir que os benefícios da reciclagem de metais são:&#10;
+                       &#10;– economia de minérios;&#10;
+                       &#10;– economia de energia;&#10;
+                       &#10;– economia de água;&#10;
+                       &#10;– aumento da vida útil dos lixões;&#10;
+                       &#10;– diminuição das áreas degradadas pela extração do minério;&#10;
+                       &#10;– diminuição da poluição;&#10;
+                       &#10;– geração de empregos e recursos econômicos para os intermediários." 
+                       TextColor="White"
+                       FontSize="16"
+                       HorizontalTextAlignment="Center"/>
+                
+                <Label Text="Fonte: http://www.setorreciclagem.com.br/reciclagem-de-metal/reciclagem-de-metal/"
+                       TextColor="WhiteSmoke"
+                       FontSize="13"
+                       HorizontalTextAlignment="Center" 
+                       Margin="0,30,0,30"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

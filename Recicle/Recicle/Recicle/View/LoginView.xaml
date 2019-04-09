@@ -1,0 +1,76 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.LoginView" Title="Login">
+
+    <Grid>
+
+        <Image Source="imagemfundo.jpg" Aspect="AspectFill"/>
+        <BoxView BackgroundColor="Black" Opacity="0.6"/>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid>
+
+            <StackLayout Padding="30" Grid.Row="0"  >
+                <Image Source="avatar.png" HeightRequest="100" />
+            </StackLayout>
+
+            <StackLayout Padding="40,20,40,5" VerticalOptions="FillAndExpand" Grid.Row="1">
+
+                <Entry x:Name="txtLogEmail"
+                       Text="{Binding reg_email}"
+                       Keyboard="Email"  
+                       TextColor="White"
+                       Placeholder="e-mail"
+                       PlaceholderColor="LightSlateGray" 
+                       HorizontalTextAlignment="Center"/>
+
+                <Entry x:Name="txtLogSenha" 
+                       Text="{Binding reg_senha}"
+                       IsPassword="True" 
+                       Placeholder="senha" 
+                       TextColor="White" 
+                       PlaceholderColor="LightSlateGray" 
+                       HorizontalTextAlignment="Center"/>
+
+            </StackLayout>
+
+            <StackLayout Grid.Row="2" HorizontalOptions="Center">
+
+                <Button x:Name="btnLogin" 
+                        Text="Login"                        
+                        TextColor="Black"
+                        BackgroundColor="White"
+                        Clicked="btnLogin_Clicked"/>
+
+            </StackLayout>
+            <StackLayout Grid.Row="3">
+                <AbsoluteLayout AbsoluteLayout.LayoutFlags="None" 
+                            AbsoluteLayout.LayoutBounds="20,0,100,100" >
+
+                    <Label AbsoluteLayout.LayoutFlags="None"
+                       AbsoluteLayout.LayoutBounds="20,10,170,70" 
+                       Text="Não sou Registrado:"
+                       TextColor="WhiteSmoke" 
+                       HeightRequest="40"/>
+
+                    <Button AbsoluteLayout.LayoutFlags="None"
+                        AbsoluteLayout.LayoutBounds="140,0,120,35" 
+                        x:Name="btnRegistre" 
+                        Clicked="btnRegistre_Clicked"
+                        Text="Registre-se"
+                        TextColor="White"
+                        BackgroundColor="Transparent"
+                        BorderColor="Transparent"
+                        HeightRequest="20"
+                        WidthRequest="5"/>
+                </AbsoluteLayout>
+            </StackLayout>
+        </Grid>
+    </Grid>
+</ContentPage>

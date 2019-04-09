@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.MenuMaster"
+             Title="Master">
+    <StackLayout BackgroundColor="LightSeaGreen">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="15"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5" />
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="5"/>
+            </Grid.RowDefinitions>
+
+            <StackLayout Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="1" Grid.RowSpan="2" BackgroundColor="White" Padding="15,10">
+                <Image Grid.Column="1" Grid.Row="1"
+                       Source="recycling.png"
+                       HeightRequest="50" 
+                       HorizontalOptions="Center" 
+                       BackgroundColor="White" />
+                <Label Grid.Column="1" Grid.Row="2"
+                       Text="RECICLE AQUI!"
+                       FontSize="20"
+                       TextColor="Black"
+                       BackgroundColor="White"
+                       FontAttributes="Bold"
+                       Style="{DynamicResource SubtitleStyle}"/>
+            </StackLayout>
+        </Grid>
+        <ListView x:Name="MenuItemsListView"
+              SeparatorVisibility="None"
+              HasUnevenRows="true"
+              ItemsSource="{Binding MenuItems}">           
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout BackgroundColor="LightSeaGreen" 
+                                     Padding="15,13"
+                                     Orientation="Horizontal"
+                                     VerticalOptions="FillAndExpand">
+
+                            <Image Source="{Binding IconMenu}"
+                                   VerticalOptions="Center"
+                                   WidthRequest="70" HeightRequest="35"/>
+
+                            <Label VerticalOptions="Center"
+                                   Text="{Binding Title}" 
+                                   FontSize="20"
+                                   TextColor="White"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

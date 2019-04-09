@@ -1,0 +1,440 @@
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.pdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle.apk
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle-Signed.apk
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.dll
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.pdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csproj.CoreCompileInputs.cache
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.dll
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.pdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\android\bin\com.companyname.Recicle.apk
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon.png
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\res\values\styles.xml
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\R.cs.flag
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\uploadflags.txt
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll.mdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Recicle.Android.dll.mdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csprojResolveAssemblyReference.cache
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.pdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle.apk
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle-Signed.apk
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.dll
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.pdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csproj.CoreCompileInputs.cache
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.dll
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.pdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\bin\com.companyname.Recicle.apk
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon.png
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\tabbar.xml
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\toolbar.xml
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\values\styles.xml
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\R.cs.flag
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\uploadflags.txt
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Recicle.Android.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.dll
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.pdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.pdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle.apk
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle-Signed.apk
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.dll
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.pdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csprojResolveAssemblyReference.cache
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csproj.CoreCompileInputs.cache
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\bin\com.companyname.Recicle.apk
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon.png
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\tabbar.xml
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\toolbar.xml
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\res\values\styles.xml
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\R.cs.flag
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\uploadflags.txt
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Recicle.Android.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csprojResolveAssemblyReference.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle.apk
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle-Signed.apk
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csprojResolveAssemblyReference.cache
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csproj.CoreCompileInputs.cache
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csproj.CopyComplete
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\bin\com.companyname.Recicle.apk
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\tabbar.xml
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\toolbar.xml
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\values\styles.xml
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\recycling.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\imagemfundo.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\menu.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_mapa.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_papel.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_plastico.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_vidro.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_metal.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_organicos.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_outros.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_galeria.png
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\ferro_velho.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\sucata_metal.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\sucata_absolente.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\resto_alimentos.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\resto_oleo.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\reut_agua.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\restococo.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_pneu.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\isopor.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_lampada.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_eletronico.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_embalagem.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\papel.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\plastico.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\plastico_classificacao.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\vidro.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\img1.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\img_papel1.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\img_papel2.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\img_papel3.jpg
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\R.cs.flag
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\uploadflags.txt
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Microsoft.CSharp.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Mono.Android.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Mono.Data.Tds.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Mono.Security.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\mscorlib.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\MvvmHelpers.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Messaging.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\SQLite-net.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.Core.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.Data.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.IO.Compression.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.Net.Http.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.Numerics.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.Transactions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.Web.Services.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.Xml.Linq.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\System.Xml.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Media.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Messaging.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Permissions.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Recicle.Android.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Microsoft.CSharp.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Mono.Android.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Mono.Security.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\mscorlib.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\MvvmHelpers.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Messaging.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Recicle.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\SQLite-net.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.Core.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.Data.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.Net.Http.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.Numerics.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.Transactions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.Web.Services.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Plugin.Media.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Plugin.Messaging.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Recicle.Android.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Microsoft.CSharp.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Mono.Android.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Mono.Security.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\mscorlib.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\MvvmHelpers.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Plugin.Geolocator.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Plugin.Media.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Plugin.Messaging.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\Recicle.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\SQLite-net.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.Core.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.Data.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.Net.Http.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.Numerics.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.Transactions.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.Web.Services.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\linksrc\System.Xml.pdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.pdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle.apk
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle-Signed.apk
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.dll
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.pdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csprojResolveAssemblyReference.cache
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csproj.CoreCompileInputs.cache
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.dll
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\Recicle.Android.pdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\bin\com.companyname.Recicle.apk
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\tabbar.xml
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\layout\toolbar.xml
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\values\styles.xml
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\recycling.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\imagemfundo.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\menu.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_mapa.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_papel.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_plastico.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_vidro.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_metal.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_organicos.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_outros.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_galeria.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\ferro_velho.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\sucata_metal.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\sucata_absolente.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\resto_alimentos.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\resto_oleo.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\reut_agua.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\restococo.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_pneu.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\isopor.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_lampada.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_eletronico.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_embalagem.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\papel.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\plastico.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\plastico_classificacao.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\vidro.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\img1.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\img_papel1.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\img_papel2.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\img_papel3.jpg
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\avatar.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-xhdpi\icon.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable-hdpi\icon.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\res\drawable\icon.png
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\R.cs.flag
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\uploadflags.txt
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\FormsViewGroup.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Messaging.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Plugin.Permissions.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Recicle.Android.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Recicle.Android.pdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle.apk
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\com.companyname.Recicle-Signed.apk
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Recicle.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Recicle.pdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csprojResolveAssemblyReference.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\Recicle.Android.csproj.CoreCompileInputs.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\Recicle.Android.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\Recicle.Android.pdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\android\bin\com.companyname.Recicle.apk
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\layout\tabbar.xml
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\layout\toolbar.xml
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\values\styles.xml
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\recycling.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\imagemfundo.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\menu.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_mapa.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_papel.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_plastico.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_vidro.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_metal.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_organicos.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_outros.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_galeria.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\ferro_velho.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\sucata_metal.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\sucata_absolente.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\resto_alimentos.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\resto_oleo.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\reut_agua.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\restococo.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_pneu.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\isopor.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_lampada.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_eletronico.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon_embalagem.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\papel.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\plastico.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\plastico_classificacao.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\vidro.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\img1.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\img_papel1.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\img_papel2.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\img_papel3.jpg
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\avatar.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable-xhdpi\icon.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable-hdpi\icon.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\icon.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\R.cs.flag
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\uploadflags.txt
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\res\drawable\logout.png
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\FormsViewGroup.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Plugin.Messaging.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Plugin.Permissions.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\android\assets\Recicle.Android.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle.Android\bin\Debug\Recicle.Android.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Plugin.Geolocator.dll.mdb
+bin\Debug\Plugin.Messaging.dll.mdb
+bin\Debug\Plugin.Permissions.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Recicle.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+obj\Debug\linksrc\Plugin.Messaging.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\Plugin.Geolocator.Abstractions.pdb
+obj\Debug\linksrc\Plugin.Messaging.Abstractions.pdb
+obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+obj\Debug\linksrc\Recicle.pdb
+obj\Debug\linksrc\SQLite-net.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Web.Services.pdb

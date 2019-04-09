@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.RecPapelView" Title="Reciclagem de Papel">
+    <ContentPage.Content>
+        <ScrollView BackgroundColor="LightSeaGreen">
+            <StackLayout Padding="20">
+                <Label Text="A RECICLAGEM DO METAL"
+                       TextColor="White"
+                       FontSize="24"
+                       FontAttributes="Bold"
+                        HorizontalOptions="Center"/>
+
+                <Image Source="papel.jpg" 
+                       VerticalOptions="CenterAndExpand" 
+                       Margin="0,0,0,24"/>
+
+                <Label Text="A reciclagem de papel para impressão é economicamente viável?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Sim. Apesar de ser um procedimento normalmente um pouco mais caro, trata-se de um material com valor agregado, por seu aspecto social e ambiental.&#10;"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Por que o papel reciclado para impressão é mais caro?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="A coleta seletiva no Brasil ainda é relativamente pequena, o que gera um custo alto para coletar e selecionar. Outro motivo é a falta de concorrência no mercado, mas a diferença de preços é cada vez menor.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Quantos papéis precisam ser reciclados para evitar que se derrubem árvores?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Cada 50 quilos de papel usado transformado em papel novo evita que uma árvore seja cortada.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Reciclagem de papel gera poluição?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="O processo de reciclagem consiste em uma operação que também gera poluição, pois utiliza energia, água e insumos químicos.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="A poluição gerada pela reciclagem é menor do que a gerada pela produção normal do papel?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="É bem menor e ainda deve-se considerar que a reciclagem impede que os papéis usados acabem em aterros sanitários, lixões ou sejam incinerados, mas lembre-se que florestas plantadas utilizadas na produção de papel absorvem dióxido de carbono, um dos principais contribuintes para o efeito estufa.&#10;No geral, sempre vale a pena optar pelo reciclado como forma de reduzir a poluição.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="A qualidade do papel reciclado é igual ao do comum?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Depende do produto ao qual o papel reciclado está sendo destinado ou comparado. Se for um papel para imprimir imagens com qualidade ou um papel higiênico, o papel reciclado tem qualidade inferior ao de um papel 'virgem'.&#10;Essa deficiência normalmente é compensada pela beleza do papel reciclado para impressão e pelo seu apelo social.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Qual a vantagem do papel reciclado?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="A grande virtude da reciclagem é aproveitar materiais que seriam descartados.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Existe uma maneira de deixar o papel reciclado branco como os outros?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Sim. Existem tratamentos utilizados para alvejar papéis que deixariam o reciclado tão branco quanto o comum, mas isso implica em usar produtos químicos que aumentariam a poluição, então não faz sentido deixá-lo branco como um papel virgem.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Existe papel reciclado branco?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Sim. Eles normalmente são feitos a partir de aparas muito bem selecionadas e sobras de produção de papel (pré consumo).&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Quais são as principais aplicações do papel reciclado?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="– Embalagens (papel craft e papelão);&#10;– para fins sanitários (papel toalha, guardanapo);&#10;– imprimir-escrever;&#10;– artesanato.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Quais tipos de papéis são recicláveis?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="- Jornal&#10;- Papel de impressoras&#10;- Saco de Papel&#10;- Papel de Escritório&#10;- Revista&#10;- Impressos em geral&#10;- Papel Branco&#10;- Papel Misto&#10;- Papelão&#10;- Embalagem Longa Vida&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Quais tipos de papéis não são comercialmente recicláveis?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="- Papel Engordurado&#10;- Carbono&#10;- Celofane (é um papel biodegradável)&#10;- Papel Plastificado&#10;- Papel Parafinado (fax)&#10;- Papel Metalizado&#10;- Papel Laminado&#10;- Papel Toalha e Higiênico&#10;- Guardanapo com Comida&#10;- Papel Vegetal&#10;- Papel Siliconizado&#10;- Papel reciclado&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Porque alguns tipos de papéis não são recicláveis?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Papéis impregnados, papel carbono, papéis revestidos com parafina ou plastificados, se tratados em conjunto com outros acabam trazendo problemas no processo de reciclagem e, consequentemente, na qualidade do produto obtido.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Qual a utilidade de separar os papéis por tipo, durante a coleta seletiva?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Os papéis alcançam um valor maior quando são separados por tipo. Papéis reciclados de escritório são fabricados a partir de papéis usados de escritório (as vezes adicionam papel craft para dar mais impressão de 'reciclado de verdade'). Quando são mais misturados, viram papelão, se mais misturados ainda, viram papel higiênico. Se estiverem misturados com outros produtos, como restos de alimentos, possivelmente nem serão reciclados.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Quantas vezes o papel pode ser reciclado?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="O mesmo papel pode ser reciclado entre 7 a 10 vezes. O papel é formado essencialmente por fibras celulósicas e estas vão se degradando a cada processo de reciclagem.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Quais as principais fontes geradoras de papel para reciclagem?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="– Principalmente de atividades comerciais e industriais – escritórios, lojas e supermercados;&#10;– residências, instituições e escolas.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Como faço para reciclar os papéis da minha empresa?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Reciclagem é um processo industrial. Você deve destinar os papéis para serem reciclados.&#10;Viabilize um sistema interno de coleta do papel em sua empresa e encaminhe o material recolhido para os compradores de aparas.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Posso ganhar dinheiro encaminhando os papéis usados do meu escritório?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Recicladores se interessam por toneladas. Tente coletar os papéis de todos os escritórios de um edifício. Você pode vender diretamente para um sucateiro, mas o valor é baixo.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="A reciclagem caseira ajuda a preservar o meio ambiente?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="A quantidade reciclada é muito pequena. A produção de papel manual a partir de aparas deve ser vista como uma atividade artística ou social. Por outro lado, o papel artesanal ajuda a disseminar a cultura da reciclagem.&#10;Sob o ponto de vista ambiental, as unidades de fabricação de papel artesanal devem descartar corretamente seus rejeitos para não produzirem materiais poluentes.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="É possível substituir todo o papel usado para embalagens e fins sanitários por papel reciclado?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="Não é possível porque a fibra celulósica vai perdendo sua resistência com a reciclagem. O comum, na reciclagem de papel, é que sempre seja misturado com um pouco de celulose virgem, para melhorar os processos de fabricação, assim como a qualidade.&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="As espécies de árvores utilizadas na fabricação do papel são as mesmas utilizadas para outros fins?"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="White"/>
+
+                <Label Text="As árvores utilizadas para fabricação de papel são de florestas plantadas especificamente para este fim. No Brasil, utiliza-se principalmente o eucalipto e o pinus para fabricação de papel.&#10;"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="&#10;fontes de referência:&#10;www.setorreciclagem.com.br&#10;Instituto de Pesquisas Tecnológicas &#10;Ajuda Brasil&#10;Nitideal&#10;"
+                        HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

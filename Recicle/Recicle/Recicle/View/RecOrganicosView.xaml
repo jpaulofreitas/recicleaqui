@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.RecOrganicosView" Title="Reciclagem de Orgânicos">
+    <ContentPage.Content>
+        <ScrollView BackgroundColor="LightSeaGreen">
+            <StackLayout HorizontalOptions="Center" Padding="20">
+                
+                <Label Text="RECICLAGEM DE MATERIAIS ORGÂNICOS"
+                       TextColor="White"
+                       FontSize="24"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+                
+                <Label Text="Os materiais orgânicos devem ser separados distintamente para a posterior reciclagem. Cada tipo é reutilizado de forma diferente:&#10;
+                       &#10;- Restos de alimentos;&#10;
+                       &#10;- Reserve em uma embalagem sobra de óleos de frituras;&#10;
+                       &#10;- Restos de cascas de coco;&#10;
+                       &#10;- Reutilização de água;&#10;"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Label Text="Restos de Alimentos"
+                       TextColor="White"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Label Text="Antes de categorizar o seu resíduo como rejeito e descartá-lo no lixo comum lembre-se que ele ainda possui muito valor e pode ser reaproveitado. As cascas de alimentos tem diversas utilidades.&#10;
+                       &#10;Para quem não sabe o que fazer com os restos de alimentos que sobram do almoço e não quer desperdiçar, aqui vão algumas dicas: sobras como cascas de frutas e vegetais podem ainda conter nutrientes valiosos, óleo vegetal pode servir para limpeza doméstica e resíduos orgânicos podem até se transformar em adubo natural de alta qualidade para suas plantas.&#10;
+                       &#10;Compostar? Por incrível que pareça, já é possível decompor naturalmente os restos de alimentos em sua própria casa (mesmo morando em apartamento) de um jeito prático e higiênico. Nos últimos anos, algumas marcas de composteiras (também conhecidas como minhocários) chegaram ao mercado com a missão de realizar essa tarefa. Nesses equipamentos, é possível colocar frutas, verduras, legumes, sementes, borra de café, sobras de alimentos cozidos ou estragados (sem exageros) e cascas de ovo. Materiais como saquinhos de chá, serragem, gravetos, papelão, papel jornal e palitos de fósforo também podem entrar na composteira sem problemas.&#10;"
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Image Source="resto_alimentos.jpg" VerticalOptions="Center"/>
+                
+                <Label Text="Restos de Óleos"
+                       TextColor="White"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Label Text="Ao despejar o óleo de cozinha usado na pia, ralo ou bueiro, muitas pessoas não se dão conta dos danos que estão causando. Ele provoca o entupimento das redes de esgoto, aumentando os custos com o tratamento de água, além de poluir rios e represas. Um único litro de óleo contamina milhares de litros de água. Você pode ajudar a mudar esse quadro!&#10;
+                       &#10;O óleo reciclado é quase todo destinado às empresas fabricantes de massas para vidro. A sobra é usada para testes em motores movidos a biodiesel.&#10;
+                       &#10;- Separe uma garrafa PET para a coleta do óleo;&#10;
+                       &#10;- Atenção: espere o óleo esfriar para depois acondicioná-lo na garrafa;&#10;
+                       &#10;- Quando a garrafa estiver cheia, leve-a a um ponto de coleta. A garrafa, assim como o óleo, serão reciclados."
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Image Source="resto_oleo.jpg" VerticalOptions="Center"/>
+                
+                <Label Text="Restos de Cascas de Cocos"
+                       TextColor="White"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Label Text="O maior desafio da força-tarefa da praia neste momento é dar cabo das toneladas de coco verde que sujam as areias diariamente. Está sendo estudada uma alternativa para a reciclagem dos cocos, de modo que se ofereçam novas ocupações aos profissionais das areias durante a baixa estação. &#10;
+                       &#10;Segundo dados da Comlurb, o coco representa 60% do lixo coletado nas praias do Rio. Durante a alta temporada, são recolhidas entre 36 e 42 toneladas em uma semana. Aos sábados, a quantidade sobe para algo entre 60 e 72 toneladas e, aos domingos, entre 90 e 108 toneladas.&#10;
+                       &#10;Além disto, o coco verde no Rio de Janeiro não tem descarte adequado ou qualquer espécie de reciclagem, tendo como destino apenas os lixões e aterros."
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Image Source="restococo.jpg" VerticalOptions="Center"/>
+
+                <Label Text="Reutilização de Água"
+                       TextColor="White"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+
+                <Label Text="Água é o recurso natural mais precioso que existe no planeta Terra. Fonte de toda a vida, ela deve ser tratada com a atenção que merece, sendo nossa responsabilidade a manutenção sustentável desse bem.&#10;
+                       &#10;- Reutilize a água do máquina de lavar para lavar áreas externas e veículos;&#10;
+                       &#10;- Reutilizando água da chuva, com um sistema de captação da água da chuva, tarefas como a rega do jardim, descargas nos sanitários, limpeza do quintal e a lavagem de veículos;&#10;
+                       &#10;OBS: não devem ser reutilizadas para consumo."
+                       HorizontalTextAlignment="Center"
+                       FontSize="16"
+                       TextColor="White"/>
+
+                <Image Source="reut_agua.jpg" VerticalOptions="Center"/>
+
+                <Label Text="Fonte: http://www.setorreciclagem.com.br/reciclagem-de-metal/reciclagem-de-metal/
+                       &#10;https://www.ecycle.com.br/component/content/article/51-materiais-organicos/156-o-que-fazer-com-restos-de-alimentos.html"
+                       TextColor="WhiteSmoke"
+                       FontSize="13"
+                       HorizontalTextAlignment="Start" Margin="0,40,0,30"/>
+
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

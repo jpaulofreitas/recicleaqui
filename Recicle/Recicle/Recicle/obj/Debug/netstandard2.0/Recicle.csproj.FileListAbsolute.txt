@@ -1,0 +1,137 @@
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csproj.CoreCompileInputs.cache
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.App.xaml.g.cs
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.LoginView.xaml.g.cs
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MainView.xaml.g.cs
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RegistroView.xaml.g.cs
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfoInputs.cache
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfo.cs
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.dll
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.pdb
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.deps.json
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.dll
+c:\users\paulo\documents\visual studio 2017\Projects\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.pdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csprojResolveAssemblyReference.cache
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csproj.CoreCompileInputs.cache
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.App.xaml.g.cs
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.ApresentacaoView.xaml.g.cs
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.LoginView.xaml.g.cs
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MainView.xaml.g.cs
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RegistroView.xaml.g.cs
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfoInputs.cache
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfo.cs
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.deps.json
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.dll
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.pdb
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.dll
+E:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.pdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.deps.json
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.dll
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.pdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csprojResolveAssemblyReference.cache
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.App.xaml.g.cs
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.ApresentacaoView.xaml.g.cs
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.LoginView.xaml.g.cs
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MainView.xaml.g.cs
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RegistroView.xaml.g.cs
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfo.cs
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.dll
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.pdb
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csproj.CoreCompileInputs.cache
+F:\Curso Técnico de Informática\Projetos Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfoInputs.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csprojResolveAssemblyReference.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csproj.CoreCompileInputs.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.App.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.ApresentacaoView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.GaleriasView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.GaleriaView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.LoginView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MainView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MapaView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.Menu.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MenuMaster.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.Page1.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecMetalView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecOrganicosView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecOutrosView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecPapelView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecPlasticoView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecVidroView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RegistroView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfoInputs.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfo.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.deps.json
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.pdb
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csprojResolveAssemblyReference.cache
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csproj.CoreCompileInputs.cache
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.App.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.GaleriasView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.GaleriaView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.LoginView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MainView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MapaView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.Menu.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MenuMaster.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.Page1.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecMetalView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecOrganicosView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecOutrosView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecPapelView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecPlasticoView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecVidroView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RegistroView.xaml.g.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfoInputs.cache
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfo.cs
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.dll
+D:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.pdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.deps.json
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.dll
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.pdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csproj.CoreCompileInputs.cache
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.App.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.GaleriasView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.GaleriaView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.LoginView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MainView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MapaView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.Menu.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MenuMaster.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecMetalView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecOrganicosView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecOutrosView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecPapelView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecPlasticoView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecVidroView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RegistroView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfoInputs.cache
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfo.cs
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.dll
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.pdb
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csprojResolveAssemblyReference.cache
+G:\Curso_TI\Projetos_Xamarin\Backup projeto\Recicle\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.PedidoView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.deps.json
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\bin\Debug\netstandard2.0\Recicle.pdb
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csprojResolveAssemblyReference.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.csproj.CoreCompileInputs.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.App.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.GaleriasView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.GaleriaView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.LoginView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MainView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MapaView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.Menu.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.MenuMaster.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.PedidoView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecMetalView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecOrganicosView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecOutrosView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecPapelView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecPlasticoView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RecVidroView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.View.RegistroView.xaml.g.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfoInputs.cache
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.AssemblyInfo.cs
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.dll
+G:\Curso_TI\Projetos_Xamarin\Recicle2\Recicle\Recicle\obj\Debug\netstandard2.0\Recicle.pdb

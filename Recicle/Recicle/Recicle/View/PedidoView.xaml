@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recicle.View.PedidoView" Title="Pedido Retirada">
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="imagemfundo.jpg" Aspect="AspectFill"/>
+            <BoxView BackgroundColor="Black" Opacity="0.6"/>
+
+            <Label Text="Solicite a coleta de seus materiais em sua residência"                    
+                       FontSize="Large"
+                       TextColor="White"
+                       HorizontalOptions="CenterAndExpand"
+                       Margin="20"
+                       Grid.Row="0"/>
+            
+            
+
+
+            <ListView x:Name="lvwPedidos" ItemTapped="lvwPedidos_ItemTapped" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding material}"  />
+                                <Label Text="{Binding endereco}" />
+                                <Label Text="{Binding bairro}"  />
+                                <Label Text="{Binding cidade}"  />
+                                <Label Text="{Binding data_retirada}"  />
+                                <Label Text="{Binding telefone}"  />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
